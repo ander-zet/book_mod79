@@ -1,0 +1,8 @@
+{
+  "penalty_sound": {
+    "subtitle": "subtitles.customdiary.penalty_sound",
+    "sounds": [
+      "customdiary:penalty_sound"
+    ]
+  }
+}

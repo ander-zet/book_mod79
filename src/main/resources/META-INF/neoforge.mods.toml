@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="customdiary"
+version="1.0.6"
+displayName="c00l Custom Guidebook"
+authors="ander_z"
+description="Мод на кастомный путеводитель специально для сервера Recreated."
+
+[[dependencies.customdiary]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.customdiary]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
